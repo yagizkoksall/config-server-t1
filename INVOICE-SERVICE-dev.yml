@@ -1,6 +1,6 @@
 spring:
   elasticsearch:
-    url: http://localhost:9200  
+    uris: http://localhost:9200  
   application:
     name: INVOICE-SERVICE
   kafka:
